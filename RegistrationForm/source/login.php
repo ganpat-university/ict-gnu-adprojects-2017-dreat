@@ -48,8 +48,6 @@ if(isset($_POST['submitted']))
 <div class='short_explanation'><a href='reset-pwd-req.php'>Forgot Password?</a></div>
 </fieldset>
 </form>
-<!-- client-side Form Validations:
-Uses the excellent form validation script from JavaScript-coder.com-->
 
 <script type='text/javascript'>
 // <![CDATA[
